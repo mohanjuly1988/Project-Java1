@@ -9,6 +9,7 @@ void m1();
 
 private static void m1()
 {
+//////////////
 System.out.print("m1");
 }
 }
