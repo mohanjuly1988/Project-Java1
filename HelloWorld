@@ -6,11 +6,17 @@ System.out.print("Change");
 System.out.print("Comapare");
 void m1();
 }
-
+////////////////////
 private static void m1()
 {
 //////////////
 System.out.print("m1");
 }
+/////////////////////////////
 }
+
 Changes are welcome
+
+
+Done in master
+
